@@ -1,0 +1,24 @@
+input {
+    width: 280px;
+    height: 50px;
+    border: 1px solid grey;
+    color: darkgrey;
+}
+
+
+.invalid {
+    border: 2px solid red;
+}
+
+
+.valid{
+    border: 2px solid green;
+}
+
+.error {
+    margin-top: 10px;
+    max-width: 500px;
+    width: auto;
+    border: 1px solid red;
+    color: white;
+}

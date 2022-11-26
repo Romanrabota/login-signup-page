@@ -1,0 +1,141 @@
+h1.title{
+    color:white;
+    font:bold;
+    font-size: 1.9em;
+    
+}
+
+
+center{
+
+margin-top:5%;
+
+}
+
+.loginview{
+  display:flex;
+  flex-direction: column;
+
+
+}
+
+
+
+
+
+.emailfield{
+
+width: 500px;
+height: 70px;
+font-size: 1.2em;
+
+}
+
+
+
+.password{
+width: 500px;
+margin-top:1%;
+height: 70px;
+font-size: 1.2em;
+
+}
+
+
+label{
+
+   /* width:1px;
+    height:1px;*/
+  /*  margin-left: -30%;
+    margin-bottom: -10%;*/
+}
+
+.checkinput{
+
+    width:10px;
+    height:10px;
+    margin-left: 0.05%;
+
+}
+
+
+
+
+.checkiput1{
+
+    width:110px;
+    margin-left: 1%;
+}
+
+
+.check{
+    display:flex;
+    flex-direction: row;
+    margin-left: 31%;
+    margin-top: 1%;
+    color: white;
+
+
+}
+
+
+.forgotpassword{
+
+margin-left: 30.5%;
+
+
+}
+
+
+.LOGIN{
+margin-top:10px;
+width:510px; 
+height:50px;   
+border-radius: 5px;    
+background-color: aqua;
+color:white;
+border-color:aqua;
+height: 70px;
+font-size: 1.1em;
+
+
+}
+
+ .text:before {
+    margin-top:10%;
+    content: url(../picture/picture1.png);
+   /* background:url(../picture/picture1.png);*/
+    width: auto;
+    height: auto;
+   /* display: block;*/
+}
+
+
+
+.Google{
+
+    margin-top:10px;
+    width:510px; 
+    height:50px;
+    border-radius:5px;
+    border-color: #dd4b39;
+    background-color: #dd4b39; 
+    color:white;
+    height: 50px;
+    font-size: 1.1em;
+    margin-bottom: 100px;
+
+
+}
+
+.button{
+
+display:flex;
+flex-direction: column;
+margin-left:31%;    
+
+}
+
+
+
+
